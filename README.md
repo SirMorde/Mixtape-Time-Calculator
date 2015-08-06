@@ -1,4 +1,4 @@
-# Mixtape-Time-Calculator
+# mixtape-time-change--calculator
 
 The use case for this time calculator is very particular, but maybe someone can find this useful! I had created a mixtape and wanted to add captions within Windows Movie Maker whenever the song changed. Windows Movie Maker only allows you to add captions based on start time and duration.
   
